@@ -13,7 +13,7 @@
     "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "true",
-    "APP_URL": "https://vercel.com/new?teamSlug=edams-projects-5f45ba7d",
+    "APP_URL": "https://vercel.com/yessins-projects",
     "APP_KEY": "base64:yIfV4+x87gjHbXKcP3nby1irl8jeFJZhqyX/+c/Nyi8=",
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
